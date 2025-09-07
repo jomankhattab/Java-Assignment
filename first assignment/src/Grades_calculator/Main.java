@@ -27,6 +27,9 @@ public class Main {
             student.displayInfo();
             System.out.println("---------------");
         }
+        // for (Student s : students) {
+        //     s.displayInfo();
+        // }
       scanner.close();
         }
     }
